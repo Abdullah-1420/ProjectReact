@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-- https://62d7f8f2ef5eac4483966643--papaya-caramel-f6bab6.netlify.app/login
+
+- https://main--papaya-caramel-f6bab6.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
