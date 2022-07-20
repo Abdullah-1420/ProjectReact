@@ -1,0 +1,128 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+
+.img {
+  position: absolute;
+  left: 65%;
+  margin-top: 5px;
+
+}
+
+.form {
+  -webkit-box-shadow: 2px -1px 19px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px -1px 19px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px -1px 19px -8px rgb(0 0 0 / 75%);
+  position: absolute;
+  z-index: 99;
+  left: 52%;
+  top: 15%;
+  height: 468px;
+  width: 500px;
+  border-radius: 15px;
+  padding: 15px 45px;
+  background-color: white;
+  margin-top:50px;
+}
+
+.veen {
+  width: 1200px;
+  background: #0d8c60;
+  min-height: 400px;
+  display: table;
+  position: relative;
+  box-shadow: 0 0 4px rgb(0 0 0 / 14%), 0 4px 8px rgb(0 0 0 / 28%);
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 50px;
+}
+
+.LoginLeft {
+  text-align: right;
+  color: white;
+  direction: rtl;
+  line-height: 50px;
+}
+
+.login-title {
+  position: relative;
+  top: 50%;
+}
+
+.login {
+  position: absolute;
+  left: 40%;
+  padding: 6px 30px !important;
+  background-color: #958a5f !important;
+  color: white !important;
+  text-decoration: none ;
+  border: none !important;
+}
+
+.navbarTop{
+  direction: rtl;
+}
+
+.navbar-light 
+.navbar-nav .nav-link {
+  color: rgb(255 255 255) !important;
+}
+
+.login_footer {
+  text-align: center;
+  line-height: 2;
+  color: #404040;
+  font-size: 15px;
+  margin-top: 35px;
+  font-family: 'Mohfont';
+  position: absolute;
+  top: 90%;
+  left: 25%;
+  
+}
+
+.aNav{
+  color : white !important ;
+  text-decoration: none  !important;
+  
+}
+ 
