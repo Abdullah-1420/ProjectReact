@@ -74,9 +74,6 @@ export default function Pationts() {
                 <td>{p.birth_date}</td>
                 <td>{p.phone}</td>
                 <td>
-                  <button>Update</button>
-                </td>
-                <td>
                   <button
                     onClick={() => {
                       Delete(p.id);
