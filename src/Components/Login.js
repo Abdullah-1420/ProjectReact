@@ -26,6 +26,7 @@ export default function Login() {
         }
       })
       .catch((err) => {
+        alert("Please Enter correct data")
         console.log(err);
       });
   };
